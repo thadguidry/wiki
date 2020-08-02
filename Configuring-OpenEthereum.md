@@ -298,6 +298,7 @@ UI Options:
 Networking Options:
     --no-warp
         Disable syncing from the snapshot over the network.
+        (default: false)
 
     --no-discovery
         Disable new peer discovery.
